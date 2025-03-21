@@ -71,6 +71,6 @@ Aquí están algunas de las tecnologías con las que trabajo:
 </p>
 
 ---
-<p align="center">✨ <strong>Abierta a oportunidades de desarrollo Backend y Mobile</strong> ✨</p>
+<p align="center">✨ <strong>Abierta a oportunidades de desarrollo Backend y Frontend </strong> ✨</p>
 
 
