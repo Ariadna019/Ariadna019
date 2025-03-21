@@ -1,9 +1,15 @@
-# ¡Hola! 👋✨ 
-**Mi nombre es:**
+
+<p align="center">
+  <a href="https://github.com/tu-usuario">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=1000&color=9ff2fb&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Romina!" alt="Typing SVG" />
+  </a>
+</p>
 
 <img src="https://github.com/Ariadna019/assets/blob/main/Portada%20Perfil%20de%20Linkedin%20de%20romina%20(1).png?raw=true" width="100%">
 
+
 💻 **Bienvenid@ a mi perfil de GitHub** 🌟  
+
 
  🎯 Soy una apasionada del desarrollo de software con especial interés en **backend** y **desarrollo de aplicaciones móviles**.  
 💡 Me especializo en **Java** y **Programación Orientada a Objetos (POO)**, pero también estar interesada  **bases de datos y optimización de sistemas**.  
