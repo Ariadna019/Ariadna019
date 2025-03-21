@@ -1,5 +1,5 @@
-# ¡Hola! Soy Romina 👋✨ 
-¡Un gusto tenerte aquí!  
+# ¡Hola! 👋✨ 
+<img src="https://i.postimg.cc/Xv9d9qTr/Portada-Perfil-de-Linkedin-de-romina-1.png" width="100%">
 
 💻 **Bienvenid@ a mi perfil de GitHub** 🌟  
 
