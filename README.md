@@ -11,7 +11,7 @@
 💻 **Bienvenid@ a mi perfil de GitHub** 🌟  
 
 
- 🎯 Soy una apasionada del desarrollo de software con especial interés en **backend** y **desarrollo de aplicaciones móviles**.  
+ 🎯 Soy una apasionada del desarrollo de software con especial interés en **backend**,**frontend** y **desarrollo de aplicaciones móviles**.  
 💡 Me especializo en **Java** y **Programación Orientada a Objetos (POO)**, pero también estar interesada  **bases de datos y optimización de sistemas**.  
 🚀 Me considero **proactiva, autodidacta y analítica**, con una gran capacidad de adaptación a entornos dinámicos.  
 🔥 Disfruto **resolver problemas y aprender nuevas tecnologías** constantemente.  
