@@ -1,5 +1,7 @@
 # ¡Hola! 👋✨ 
-<img src="https://i.postimg.cc/Xv9d9qTr/Portada-Perfil-de-Linkedin-de-romina-1.png" width="100%">
+**Mi nombre es:**
+
+<img src="https://github.com/Ariadna019/assets/blob/main/Portada%20Perfil%20de%20Linkedin%20de%20romina%20(1).png?raw=true" width="100%">
 
 💻 **Bienvenid@ a mi perfil de GitHub** 🌟  
 
