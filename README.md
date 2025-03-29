@@ -49,11 +49,11 @@ Aquí están algunas de las tecnologías con las que trabajo:
       <td align="center" style="border: none; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/><br>MySQL
       </td>
-    </tr>
-   <tr>
       <td align="center" style="border: none; padding: 10px;">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  alt="React" width="50" /><br>React
       </td>
+    </tr>
+   <tr>
       <td align="center" style="border: none; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"  alt="Socket.io" width="50" /><br>Socket.io
       </td>
