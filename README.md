@@ -41,9 +41,6 @@ Aquí están algunas de las tecnologías con las que trabajo:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/><br>Bootstrap
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/><br>TypeScript
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50"/><br>Angular
       </td>
       <td align="center" style="border: none; padding: 10px;">
