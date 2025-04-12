@@ -52,6 +52,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
       <td align="center" style="border: none; padding: 10px;">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  alt="React" width="50" /><br>React
       </td>
+      
     </tr>
    <tr>
       <td align="center" style="border: none; padding: 10px;">
@@ -60,6 +61,9 @@ Aquí están algunas de las tecnologías con las que trabajo:
     <td align="center" style="border: none; padding: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
          alt="MongoDB" width="50" /><br>MongoDB
+</td>
+     <td align="center" style="border: none; padding: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50"/><br>Spring Boot
 </td>
     </tr>
   </table>
